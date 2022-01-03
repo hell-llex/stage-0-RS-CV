@@ -32,7 +32,7 @@ Hi, I'm Alexander Demeshchenko. I am 21 years old, live and work in Minsk.
 Work as a sales consultant, but it seems to me that I will not stay in this job for long. I have always been drawn to the field of information technology, so I will make every effort on the way to my goal. Minimally fond of photography.
 * Of the good skills , I can mention a couple:
     + Communication skills 9/10;
-    + Stress Resistance 9/10;
+    + Stress resistance 9/10;
     + Modesty 9/10;
     + Creativity 7±2/10;
 
@@ -81,7 +81,7 @@ tongue.addEventListener("click", function(){
 
 ## **Languages**
 + Russian - **Native**
-+ Eanglish - **Basic**
++ English - **Basic**
 
 *****
 *****
