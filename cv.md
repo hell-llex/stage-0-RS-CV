@@ -2,7 +2,7 @@
 *****
 *****
 
-<img src="./img/i.png" width="300">
+<img src="./assets/img/i.png" alt="Portrait" width="300">
 
 
 # **Alexander Demeshchenko**  **{ hell_llex }**
@@ -86,7 +86,7 @@ tongue.addEventListener("click", function(){
 *****
 *****
 
-<img src="./img/logo.gif" height="100">
+<img src="./assets/img/logo.gif" alt="Logo" height="100">
 
 ## **hell_llex**
 
