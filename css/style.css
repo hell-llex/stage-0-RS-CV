@@ -146,10 +146,10 @@ a {
     font-family: 'Pacifico', cursive;
     font-size: 28px;
 }
-.contacts-list li, .skills-list-minimum li, .skills-list-average li, .other-link li {
+.list-item {
     margin: 5px 0px 5px 50px;
 }
-.other-link, .skills-list-minimum ,.skills-list-average {
+.other-link, .skills-list-minimum ,.skills-list-average, .projects-list, .about-me-skills, .language-list, .education-list {
     margin: 0px 0px 0px 30px;
 }
 .right-column {
@@ -160,12 +160,6 @@ a {
     width: 60%;
     border-radius: 10px 0px 0px 0px;
     background-color: rgb(29, 179, 179);
-}
-.about-me-skills, .language-list {
-    margin: 0px 0px 0px 30px;
-}
-.about-me-skills li, .language-list li {
-    margin: 5px 0px 5px 50px;
 }
 .title-list {
     margin: 20px 0px 10px 30px;

@@ -9,7 +9,7 @@
 
 ## **Contact information:**
 
-**Phone number:** *+375333751903*;
+**Phone number:** *+375333751903* ;
 
 **Email:** *demeshenko333@gmail.com* ;
 
@@ -56,6 +56,13 @@ Work as a sales consultant, but it seems to me that I will not stay in this job 
 *****
 *****
 
+## **Projects**
++ My first CV ;
++ Will be soon => **[GitHub](https://github.com/hell-llex)** ;
+
+*****
+*****
+
 ## **Code examples**
 ```
 let tongue = document.querySelector(".tongue");
@@ -73,15 +80,16 @@ tongue.addEventListener("click", function(){
 *****
 *****
 
-## **Courses**
-*Self-education* & *self-development*.
+## **Education and courses:**
++ Once upon a time I graduated from Gomel College-Branch of BelSUT Educational Institution;
++ What follows is self-education and self-development;
 
 *****
 *****
 
 ## **Languages**
-+ Russian - **Native**
-+ English - **Basic**
++ Russian - **Native ;**
++ English - **Basic ;**
 
 *****
 *****
